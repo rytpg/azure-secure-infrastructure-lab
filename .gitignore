@@ -1,0 +1,16 @@
+# SSH/private keys
+*.pem
+*.key
+*.ppk
+
+# Secrets/config
+.env
+*.secret
+secrets/
+credentials/
+
+# Azure auth
+.azure/
+
+# Editor
+.vscode/
