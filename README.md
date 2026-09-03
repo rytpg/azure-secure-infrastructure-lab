@@ -5,7 +5,7 @@ A Microsoft Azure infrastructure project designed around the skills covered by A
 This project was built to simulate a small production style Azure environment with network segmentation, redundant web compute, load balancing, secure Blob Storage, private connectivity, monitoring, backup, governance, RBAC, and IaC.
 
 ## Architecture
-![Azure Infrastructure Architecture](architecture/architecture.png)
+![Azure Infrastructure Architecture](architecture/Architecture.png)
 
 
 ## Technologies Used
